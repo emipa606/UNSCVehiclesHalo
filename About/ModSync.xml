@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>b6938ffe-851d-4802-af21-5ee0a4902b2c</ID>
   <ModName>UNSC Vehicles Halo (Continued)</ModName>
-  <Version>1.4.0</Version>
+  <Version>1.5.0</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,7 +12,3 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
-
-
-
-

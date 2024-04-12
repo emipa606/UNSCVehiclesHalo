@@ -58,11 +58,6 @@ I am very new to the modding side of Rimworld so if you see any bugs please repo
 
 Thank you for reading all of that and please report bugs down below also leave a rating on the mod (You don't have to) and ask any questions below and have fun!
 
-** Any Donations are hugely appreciated and will encourage me to continue modding but are in no way necessary **
-
-https://paypal.me/MrDylanScoot?locale.x=en_GB] ![Image]( https://i.imgur.com/SVierwQ.png )
- 
-
 ![Image](https://i.imgur.com/PwoNOj4.png)
 
 
@@ -73,8 +68,12 @@ https://paypal.me/MrDylanScoot?locale.x=en_GB] ![Image]( https://i.imgur.com/SVi
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+-  Use https://github.com/RimSort/RimSort/releases/latest]RimSort to sort your mods
 
 
 
 https://steamcommunity.com/sharedfiles/filedetails/changelog/]![Image](https://img.shields.io/github/v/release/emipa606/UNSCVehiclesHalo?label=latest%20version&style=plastic&color=9f1111&labelColor=black)
+
+
+https://steamcommunity.com/sharedfiles/filedetails/changelog/3041208214]![Image](https://img.shields.io/github/v/release/emipa606/UNSCVehiclesHalo?label=latest%20version&style=plastic&color=9f1111&labelColor=black)
 
