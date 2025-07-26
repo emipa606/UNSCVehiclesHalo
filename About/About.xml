@@ -9,25 +9,61 @@
     <li>1.3</li>
     <li>1.4</li>
     <li>1.5</li>
+    <li>1.6</li>
   </supportedVersions>
   <modDependencies>
     <li>
-      <packageId>smashphil.srtsexpanded</packageId>
-      <displayName>SRTS Expanded</displayName>
-      <steamWorkshopUrl>steam://url/CommunityFilePage/2878587061</steamWorkshopUrl>
-      <downloadUrl>https://github.com/SmashPhil/SRTS</downloadUrl>
+      <packageId>Shashlichnik.srtsexpanded</packageId>
+      <displayName>SRTS Expanded (continued)</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2938738526</steamWorkshopUrl>
     </li>
   </modDependencies>
   <loadAfter>
-    <li>smashphil.srtsexpanded</li>
+    <li>Shashlichnik.srtsexpanded</li>
   </loadAfter>
   <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of Mr Scoots mod https://steamcommunity.com/sharedfiles/filedetails/?id=2422530178
 
 [img]https://i.imgur.com/pufA0kM.png[/img]
 
+[b]Stats[/b]
+UNSC Pelican
+700 kg capacity
+1-13 passengers
+For over a century, Pelican dropships have been the UNSC’s best and most prominent method of troop and materiel transportation in its various military endeavors. These workhorse craft are equally at home in orbit and atmosphere, and have even been pressed into use for short interplanetary trips. Available in a bewildering number of models and unique variants, Pelicans are likely to remain in service for the foreseeable future.
+
+UNSC Falcon
+700 kg capacity
+1-6 passengers
+The Falcon is a versatile, transverse-rotor multipurpose utility helicopter that entered service in 2497, though it was only truly common with garrison forces on inner colony worlds. Capable of being fitted with a range of armaments, the Falcon proved to be an economical alternative to the larger Pelican for short-range troop deployment by UNSC Army units.
+
+UNSC Longsword
+800 kg capacity
+2-4 passengers
+The GA-TL1 Longsword is designed primarily as a fighter, though it can also be used for interception, suppression, bombing, or direct attack.
+
+UNSC Sabre
+800 kg capacity
+1-2 passengers
+The YSS-1000 Prototype Anti-Ship Spaceplane, usually referred to as the Sabre, is a space superiority starfighter used by the UNSC Defense Force during the Human-Covenant war. Its first known use was in Operation: UPPERCUT during the Fall of Reach.
+
+UNSC Broadsword
+800 kg capacity
+1 passenger
+The Misriah Armory F-41 Broadsword is a family of four-engine, atmospheric/exoatmospheric stealth multirole fighters. The Broadsword entered early design phases in 2527, and in 2529 was a flyable concept aircraft designated the X-40. The fighter was designed to directly counter the agile and highly manueverable Type-31 Seraph.
+
+UNSC Wasp
+120 kg capacity
+1 passenger
+The AV-49 Wasp is light-weight VTOL used by the UNSC. Designed for expeditionary roles, the Wasp can be very quickly manufactured, and very easily shipped.
+
+UNSC Hornet
+120 kg capacity
+1 passenger
+The AV-14 Attack VTOL, also known as the Hornet, is a United Nations Space Command assault and reconnaissance Aircraft. The Hornet is capable of fulfilling multiple combat roles from close air support to special forces insertion
+
 [table]
-    [tr][td][url=https://dsc.gg/mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td] [td][url=https://github.com/emipa606/UNSCVehiclesHalo][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [tr][td][url=https://discord.gg/h5TY6DA][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td] [td][url=https://github.com/emipa606/UNSCVehiclesHalo][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
     [/tr]
     [tr]
         [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
@@ -36,7 +72,6 @@ Update of Mr Scoots mod https://steamcommunity.com/sharedfiles/filedetails/?id=2
 [/table]
 	
 [img]https://i.imgur.com/Z4GOv8H.png[/img]
-[b] Join the discord to get Info about upcoming mods ( https://discord.gg/J96Sk2BPeb ) [/b]
 
 This mod add 7 vehicles used by the UNSC in the Halo universe
 
@@ -85,15 +120,13 @@ Thank you for reading all of that and please report bugs down below also leave a
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
-[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] or the standalone [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader[/url] and command Ctrl+F12
+[*] Post your error-log using the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Log Uploader[/url] or the standalone [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader[/url] and command Ctrl+F12
 [*] For best support, please use the Discord-channel for error-reporting.
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
-[/list]
+[/list] 
 
-[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/][img]https://img.shields.io/github/v/release/emipa606/UNSCVehiclesHalo?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url]
-
-[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3041208214][img]https://img.shields.io/github/v/release/emipa606/UNSCVehiclesHalo?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url]</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.5.0</modVersion>
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3041208214][img]https://img.shields.io/github/v/release/emipa606/UNSCVehiclesHalo?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags:  bungie era</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.6.0</modVersion>
 </ModMetaData>

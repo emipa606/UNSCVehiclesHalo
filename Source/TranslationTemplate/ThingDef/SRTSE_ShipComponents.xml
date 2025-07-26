@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: SRTS: dimensional components -->
+  <ShuttleComp_DimShift.label>SRTS: dimensional components</ShuttleComp_DimShift.label>
+  <!-- EN: This item is no longer required for SRTS Expanded. Sell them or destroy them. \n\nRemove the recipes from your workbenches! A future update will remove this entirely and may break your fabrication bench!!! -->
+  <ShuttleComp_DimShift.description>This item is no longer required for SRTS Expanded. Sell them or destroy them. 
+
+Remove the recipes from your workbenches! A future update will remove this entirely and may break your fabrication bench!!!</ShuttleComp_DimShift.description>
+  <!-- EN: SRTS: electrical components -->
+  <ShuttleComp_ElectricSystem.label>SRTS: electrical components</ShuttleComp_ElectricSystem.label>
+  <!-- EN: This item is no longer required for SRTS Expanded. Sell them or destroy them. \n\nRemove the recipes from your workbenches! A future update will remove this entirely and may break your fabrication bench!!! -->
+  <ShuttleComp_ElectricSystem.description>This item is no longer required for SRTS Expanded. Sell them or destroy them. 
+
+Remove the recipes from your workbenches! A future update will remove this entirely and may break your fabrication bench!!!</ShuttleComp_ElectricSystem.description>
+  <!-- EN: SRTS: engine components -->
+  <ShuttleComp_Engines.label>SRTS: engine components</ShuttleComp_Engines.label>
+  <!-- EN: This item is no longer required for SRTS Expanded. Sell them or destroy them. \n\nRemove the recipes from your workbenches! A future update will remove this entirely and may break your fabrication bench!!! -->
+  <ShuttleComp_Engines.description>This item is no longer required for SRTS Expanded. Sell them or destroy them. 
+
+Remove the recipes from your workbenches! A future update will remove this entirely and may break your fabrication bench!!!</ShuttleComp_Engines.description>
+  <!-- EN: SRTS: mechanical components -->
+  <ShuttleComp_MechSystem.label>SRTS: mechanical components</ShuttleComp_MechSystem.label>
+  <!-- EN: This item is no longer required for SRTS Expanded. Sell them or destroy them. \n\nRemove the recipes from your workbenches! A future update will remove this entirely and may break your fabrication bench!!! -->
+  <ShuttleComp_MechSystem.description>This item is no longer required for SRTS Expanded. Sell them or destroy them. 
+
+Remove the recipes from your workbenches! A future update will remove this entirely and may break your fabrication bench!!!</ShuttleComp_MechSystem.description>
+  <!-- EN: SRTS: neural mesh plates -->
+  <ShuttleComp_MeshPlate.label>SRTS: neural mesh plates</ShuttleComp_MeshPlate.label>
+  <!-- EN: This item is no longer required for SRTS Expanded. Sell them or destroy them. \n\nRemove the recipes from your workbenches! A future update will remove this entirely and may break your fabrication bench!!! -->
+  <ShuttleComp_MeshPlate.description>This item is no longer required for SRTS Expanded. Sell them or destroy them. 
+
+Remove the recipes from your workbenches! A future update will remove this entirely and may break your fabrication bench!!!</ShuttleComp_MeshPlate.description>
+  <!-- EN: SRTS: steel plates -->
+  <ShuttleComp_Plates.label>SRTS: steel plates</ShuttleComp_Plates.label>
+  <!-- EN: This item is no longer required for SRTS Expanded. Sell them or destroy them. \n\nRemove the recipes from your workbenches! A future update will remove this entirely and may break your fabrication bench!!! -->
+  <ShuttleComp_Plates.description>This item is no longer required for SRTS Expanded. Sell them or destroy them. 
+
+Remove the recipes from your workbenches! A future update will remove this entirely and may break your fabrication bench!!!</ShuttleComp_Plates.description>
+  <!-- EN: SRTS: nuclear reactor components -->
+  <ShuttleComp_Reactor.label>SRTS: nuclear reactor components</ShuttleComp_Reactor.label>
+  <!-- EN: This item is no longer required for SRTS Expanded. Sell them or destroy them. \n\nRemove the recipes from your workbenches! A future update will remove this entirely and may break your fabrication bench!!! -->
+  <ShuttleComp_Reactor.description>This item is no longer required for SRTS Expanded. Sell them or destroy them. 
+
+Remove the recipes from your workbenches! A future update will remove this entirely and may break your fabrication bench!!!</ShuttleComp_Reactor.description>
+  <!-- EN: SRTS: internal components -->
+  <ShuttleComp_Structural.label>SRTS: internal components</ShuttleComp_Structural.label>
+  <!-- EN: This item is no longer required for SRTS Expanded. Sell them or destroy them. \n\nRemove the recipes from your workbenches! A future update will remove this entirely and may break your fabrication bench!!! -->
+  <ShuttleComp_Structural.description>This item is no longer required for SRTS Expanded. Sell them or destroy them. 
+
+Remove the recipes from your workbenches! A future update will remove this entirely and may break your fabrication bench!!!</ShuttleComp_Structural.description>
+</LanguageData>

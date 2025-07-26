@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: UNSC Longsword Active -->
+  <UNSC_Active.label>UNSC Longsword Active</UNSC_Active.label>
+  <!-- EN: UNSC Longsword Bombing -->
+  <UNSC_BomberRun.label>UNSC Longsword Bombing</UNSC_BomberRun.label>
+  <!-- EN: UNSC Broadsword Active -->
+  <UNSC_Broadsword_Active.label>UNSC Broadsword Active</UNSC_Broadsword_Active.label>
+  <!-- EN: UNSC Broadsword Bombing -->
+  <UNSC_Broadsword_BomberRun.label>UNSC Broadsword Bombing</UNSC_Broadsword_BomberRun.label>
+  <!-- EN: UNSC Broadsword incoming -->
+  <UNSC_Broadsword_Incoming.label>UNSC Broadsword incoming</UNSC_Broadsword_Incoming.label>
+  <!-- EN: UNSC Broadsword leaving -->
+  <UNSC_Broadsword_Leaving.label>UNSC Broadsword leaving</UNSC_Broadsword_Leaving.label>
+  <!-- EN: UNSC Falcon active -->
+  <UNSC_Falcon_Active.label>UNSC Falcon active</UNSC_Falcon_Active.label>
+  <!-- EN: UNSC Falcon incoming -->
+  <UNSC_Falcon_Incoming.label>UNSC Falcon incoming</UNSC_Falcon_Incoming.label>
+  <!-- EN: UNSC Falcon leaving -->
+  <UNSC_Falcon_Leaving.label>UNSC Falcon leaving</UNSC_Falcon_Leaving.label>
+  <!-- EN: UNSC Hornet active -->
+  <UNSC_Hornet_Active.label>UNSC Hornet active</UNSC_Hornet_Active.label>
+  <!-- EN: UNSC Hornet incoming -->
+  <UNSC_Hornet_Incoming.label>UNSC Hornet incoming</UNSC_Hornet_Incoming.label>
+  <!-- EN: UNSC Hornet leaving -->
+  <UNSC_Hornet_Leaving.label>UNSC Hornet leaving</UNSC_Hornet_Leaving.label>
+  <!-- EN: UNSC Longsword incoming -->
+  <UNSC_Incoming.label>UNSC Longsword incoming</UNSC_Incoming.label>
+  <!-- EN: UNSC Longsword leaving -->
+  <UNSC_Leaving.label>UNSC Longsword leaving</UNSC_Leaving.label>
+  <!-- EN: UNSC Pelican active -->
+  <UNSC_Pelican_Active.label>UNSC Pelican active</UNSC_Pelican_Active.label>
+  <!-- EN: UNSC Pelican incoming -->
+  <UNSC_Pelican_Incoming.label>UNSC Pelican incoming</UNSC_Pelican_Incoming.label>
+  <!-- EN: UNSC Pelican leaving -->
+  <UNSC_Pelican_Leaving.label>UNSC Pelican leaving</UNSC_Pelican_Leaving.label>
+  <!-- EN: UNSC Sabre Active -->
+  <UNSC_Sabre_Active.label>UNSC Sabre Active</UNSC_Sabre_Active.label>
+  <!-- EN: UNSC Sabre Bombing -->
+  <UNSC_Sabre_BomberRun.label>UNSC Sabre Bombing</UNSC_Sabre_BomberRun.label>
+  <!-- EN: UNSC Sabre incoming -->
+  <UNSC_Sabre_Incoming.label>UNSC Sabre incoming</UNSC_Sabre_Incoming.label>
+  <!-- EN: UNSC Sabre leaving -->
+  <UNSC_Sabre_Leaving.label>UNSC Sabre leaving</UNSC_Sabre_Leaving.label>
+  <!-- EN: UNSC Wasp active -->
+  <UNSC_Wasp_Active.label>UNSC Wasp active</UNSC_Wasp_Active.label>
+  <!-- EN: UNSC Wasp incoming -->
+  <UNSC_Wasp_Incoming.label>UNSC Wasp incoming</UNSC_Wasp_Incoming.label>
+  <!-- EN: UNSC Wasp leaving -->
+  <UNSC_Wasp_Leaving.label>UNSC Wasp leaving</UNSC_Wasp_Leaving.label>
+</LanguageData>

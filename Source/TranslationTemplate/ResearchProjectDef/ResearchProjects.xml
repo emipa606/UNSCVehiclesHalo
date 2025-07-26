@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: UNSC Broadsword -->
+  <Reasearch_UNSCBroadsword.label>UNSC Broadsword</Reasearch_UNSCBroadsword.label>
+  <!-- EN: Research the Blueprints for the UNSC Broadsword -->
+  <Reasearch_UNSCBroadsword.description>Research the Blueprints for the UNSC Broadsword</Reasearch_UNSCBroadsword.description>
+  <!-- EN: UNSC Falcon -->
+  <Reasearch_UNSCFalcon.label>UNSC Falcon</Reasearch_UNSCFalcon.label>
+  <!-- EN: Research the Blueprints for the UNSC Falcon -->
+  <Reasearch_UNSCFalcon.description>Research the Blueprints for the UNSC Falcon</Reasearch_UNSCFalcon.description>
+  <!-- EN: UNSC Hornet -->
+  <Reasearch_UNSCHornet.label>UNSC Hornet</Reasearch_UNSCHornet.label>
+  <!-- EN: Research the Blueprints for the UNSC Hornet -->
+  <Reasearch_UNSCHornet.description>Research the Blueprints for the UNSC Hornet</Reasearch_UNSCHornet.description>
+  <!-- EN: UNSC Longsword -->
+  <Reasearch_UNSCLongsword.label>UNSC Longsword</Reasearch_UNSCLongsword.label>
+  <!-- EN: Research the Blueprints for the UNSC Longsword -->
+  <Reasearch_UNSCLongsword.description>Research the Blueprints for the UNSC Longsword</Reasearch_UNSCLongsword.description>
+  <!-- EN: UNSC Pelican -->
+  <Reasearch_UNSCPelican.label>UNSC Pelican</Reasearch_UNSCPelican.label>
+  <!-- EN: Research the Blueprints for the UNSC Pelican -->
+  <Reasearch_UNSCPelican.description>Research the Blueprints for the UNSC Pelican</Reasearch_UNSCPelican.description>
+  <!-- EN: UNSC Sabre -->
+  <Reasearch_UNSCSabre.label>UNSC Sabre</Reasearch_UNSCSabre.label>
+  <!-- EN: Research the Blueprints for the UNSC Sabre -->
+  <Reasearch_UNSCSabre.description>Research the Blueprints for the UNSC Sabre</Reasearch_UNSCSabre.description>
+  <!-- EN: UNSC Wasp -->
+  <Reasearch_UNSCWasp.label>UNSC Wasp</Reasearch_UNSCWasp.label>
+  <!-- EN: Research the Blueprints for the UNSC Wasp -->
+  <Reasearch_UNSCWasp.description>Research the Blueprints for the UNSC Wasp</Reasearch_UNSCWasp.description>
+</LanguageData>
