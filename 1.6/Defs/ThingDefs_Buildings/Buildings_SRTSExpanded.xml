@@ -27,24 +27,35 @@
     </costList>
     <comps>
       <li Class="CompProperties_Transporter">
+        <canChangeAssignedThingsAfterStarting>true</canChangeAssignedThingsAfterStarting>
         <restEffectiveness>0.5</restEffectiveness>
         <!-- How well (1.0 = 100%) passengers can rest, eat, heal while aboard -->
         <massCapacity>700</massCapacity>
+        <max1PerGroup>true</max1PerGroup>
         <!-- weight in kg -->
       </li>
-      <li Class="SRTS.CompProperties_LaunchableSRTS">
-        <travelSpeed>20</travelSpeed>
+      <li Class="CompProperties_Launchable">
         <!-- Vanilla drop pod is 25 speed, min 1, max 100 -->
         <fuelPerTile>5</fuelPerTile>
+        <minFuelCost>75</minFuelCost>
+        <skyfallerLeaving>UNSC_Pelican_Leaving</skyfallerLeaving>
+        <worldObjectDef>TravelingSRTS</worldObjectDef>
+        <cooldownTicks>5000</cooldownTicks>
+        <!-- 2 hours -->
+        <fixedLaunchDistanceMax>175</fixedLaunchDistanceMax>
+        <cooldownEndedMessage>{0} is ready to launch again.</cooldownEndedMessage>
+      </li>
+      <li Class="SRTS.CompProperties_LaunchableSRTS">
+        <shipDef>SRTSSuperpod</shipDef>
+        <travelSpeed>20</travelSpeed>
         <!-- Drop pod cost is 2.25 per tile. min 1, max 6. Why'd we cap it at 6? I can't remember. -->
         <minPassengers>1</minPassengers>
         <maxPassengers>13</maxPassengers>
         <spaceFaring>true</spaceFaring>
-        <!-- For save our ship 2 -->
-        <shuttleBayLanding>true</shuttleBayLanding>
       </li>
       <li Class="CompProperties_Refuelable">
         <fuelCapacity>1200</fuelCapacity>
+        <fuelConsumptionRate>50.0</fuelConsumptionRate>
         <targetFuelLevelConfigurable>true</targetFuelLevelConfigurable>
         <initialConfigurableTargetFuelLevel>600</initialConfigurableTargetFuelLevel>
         <fuelFilter>
@@ -52,7 +63,6 @@
             <li>Chemfuel</li>
           </thingDefs>
         </fuelFilter>
-        <consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed>
         <initialFuelPercent>0.25</initialFuelPercent>
         <autoRefuelPercent>1</autoRefuelPercent>
         <showFuelGizmo>true</showFuelGizmo>
@@ -107,24 +117,35 @@
     </costList>
     <comps>
       <li Class="CompProperties_Transporter">
+        <canChangeAssignedThingsAfterStarting>true</canChangeAssignedThingsAfterStarting>
         <restEffectiveness>0.5</restEffectiveness>
         <!-- How well (1.0 = 100%) passengers can rest, eat, heal while aboard -->
         <massCapacity>700</massCapacity>
         <!-- weight in kg -->
+        <max1PerGroup>true</max1PerGroup>
       </li>
-      <li Class="SRTS.CompProperties_LaunchableSRTS">
-        <travelSpeed>40</travelSpeed>
+      <li Class="CompProperties_Launchable">
         <!-- Vanilla drop pod is 25 speed, min 1, max 100 -->
         <fuelPerTile>3.5</fuelPerTile>
+        <minFuelCost>75</minFuelCost>
+        <skyfallerLeaving>UNSC_Falcon_Leaving</skyfallerLeaving>
+        <worldObjectDef>TravelingSRTS</worldObjectDef>
+        <cooldownTicks>5000</cooldownTicks>
+        <!-- 2 hours -->
+        <fixedLaunchDistanceMax>175</fixedLaunchDistanceMax>
+        <cooldownEndedMessage>{0} is ready to launch again.</cooldownEndedMessage>
+      </li>
+      <li Class="SRTS.CompProperties_LaunchableSRTS">
+        <shipDef>SRTSSuperpod</shipDef>
+        <travelSpeed>40</travelSpeed>
         <!-- Drop pod cost is 2.25 per tile. min 1, max 6. Why'd we cap it at 6? I can't remember. -->
         <minPassengers>1</minPassengers>
         <maxPassengers>6</maxPassengers>
         <spaceFaring>false</spaceFaring>
-        <!-- For save our ship 2 -->
-        <shuttleBayLanding>false</shuttleBayLanding>
       </li>
       <li Class="CompProperties_Refuelable">
         <fuelCapacity>600</fuelCapacity>
+        <fuelConsumptionRate>80</fuelConsumptionRate>
         <targetFuelLevelConfigurable>true</targetFuelLevelConfigurable>
         <initialConfigurableTargetFuelLevel>300</initialConfigurableTargetFuelLevel>
         <fuelFilter>
@@ -132,7 +153,6 @@
             <li>Chemfuel</li>
           </thingDefs>
         </fuelFilter>
-        <consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed>
         <initialFuelPercent>0.25</initialFuelPercent>
         <autoRefuelPercent>1</autoRefuelPercent>
         <showFuelGizmo>true</showFuelGizmo>
@@ -188,24 +208,35 @@
     </costList>
     <comps>
       <li Class="CompProperties_Transporter">
+        <canChangeAssignedThingsAfterStarting>true</canChangeAssignedThingsAfterStarting>
         <restEffectiveness>0.5</restEffectiveness>
         <!-- How well (1.0 = 100%) passengers can rest, eat, heal while aboard -->
         <massCapacity>800</massCapacity>
+        <max1PerGroup>true</max1PerGroup>
         <!-- weight in kg -->
       </li>
-      <li Class="SRTS.CompProperties_LaunchableSRTS">
-        <travelSpeed>40</travelSpeed>
+      <li Class="CompProperties_Launchable">
         <!-- Vanilla drop pod is 25 speed, min 1, max 100 -->
         <fuelPerTile>2.5</fuelPerTile>
+        <minFuelCost>75</minFuelCost>
+        <skyfallerLeaving>UNSC_Leaving</skyfallerLeaving>
+        <worldObjectDef>TravelingSRTS</worldObjectDef>
+        <cooldownTicks>5000</cooldownTicks>
+        <!-- 2 hours -->
+        <fixedLaunchDistanceMax>175</fixedLaunchDistanceMax>
+        <cooldownEndedMessage>{0} is ready to launch again.</cooldownEndedMessage>
+      </li>
+      <li Class="SRTS.CompProperties_LaunchableSRTS">
+        <shipDef>SRTSMkIII</shipDef>
+        <travelSpeed>40</travelSpeed>
         <!-- Drop pod cost is 2.25 per tile. min 1, max 6. Why'd we cap it at 6? I can't remember. -->
         <minPassengers>2</minPassengers>
         <maxPassengers>4</maxPassengers>
         <spaceFaring>true</spaceFaring>
-        <!-- For save our ship 2 -->
-        <shuttleBayLanding>true</shuttleBayLanding>
       </li>
       <li Class="CompProperties_Refuelable">
         <fuelCapacity>1400</fuelCapacity>
+        <fuelConsumptionRate>150.0</fuelConsumptionRate>
         <targetFuelLevelConfigurable>true</targetFuelLevelConfigurable>
         <initialConfigurableTargetFuelLevel>700</initialConfigurableTargetFuelLevel>
         <fuelFilter>
@@ -213,7 +244,6 @@
             <li>Chemfuel</li>
           </thingDefs>
         </fuelFilter>
-        <consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed>
         <initialFuelPercent>0.25</initialFuelPercent>
         <autoRefuelPercent>1</autoRefuelPercent>
         <showFuelGizmo>true</showFuelGizmo>
@@ -283,24 +313,35 @@
     </costList>
     <comps>
       <li Class="CompProperties_Transporter">
+        <canChangeAssignedThingsAfterStarting>true</canChangeAssignedThingsAfterStarting>
         <restEffectiveness>0.5</restEffectiveness>
         <!-- How well (1.0 = 100%) passengers can rest, eat, heal while aboard -->
         <massCapacity>800</massCapacity>
         <!-- weight in kg -->
+        <max1PerGroup>true</max1PerGroup>
       </li>
-      <li Class="SRTS.CompProperties_LaunchableSRTS">
-        <travelSpeed>70</travelSpeed>
+      <li Class="CompProperties_Launchable">
         <!-- Vanilla drop pod is 25 speed, min 1, max 100 -->
         <fuelPerTile>1</fuelPerTile>
+        <minFuelCost>75</minFuelCost>
+        <skyfallerLeaving>UNSC_Sabre_Leaving</skyfallerLeaving>
+        <worldObjectDef>TravelingSRTS</worldObjectDef>
+        <cooldownTicks>5000</cooldownTicks>
+        <!-- 2 hours -->
+        <fixedLaunchDistanceMax>175</fixedLaunchDistanceMax>
+        <cooldownEndedMessage>{0} is ready to launch again.</cooldownEndedMessage>
+      </li>
+      <li Class="SRTS.CompProperties_LaunchableSRTS">
+        <shipDef>SRTSMkIII</shipDef>
+        <travelSpeed>70</travelSpeed>
         <!-- Drop pod cost is 2.25 per tile. min 1, max 6. Why'd we cap it at 6? I can't remember. -->
         <minPassengers>1</minPassengers>
         <maxPassengers>2</maxPassengers>
         <spaceFaring>true</spaceFaring>
-        <!-- For save our ship 2 -->
-        <shuttleBayLanding>true</shuttleBayLanding>
       </li>
       <li Class="CompProperties_Refuelable">
         <fuelCapacity>800</fuelCapacity>
+        <fuelConsumptionRate>70.0</fuelConsumptionRate>
         <targetFuelLevelConfigurable>true</targetFuelLevelConfigurable>
         <initialConfigurableTargetFuelLevel>400</initialConfigurableTargetFuelLevel>
         <fuelFilter>
@@ -308,7 +349,6 @@
             <li>Chemfuel</li>
           </thingDefs>
         </fuelFilter>
-        <consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed>
         <initialFuelPercent>0.25</initialFuelPercent>
         <autoRefuelPercent>1</autoRefuelPercent>
         <showFuelGizmo>true</showFuelGizmo>
@@ -382,20 +422,30 @@
         <!-- How well (1.0 = 100%) passengers can rest, eat, heal while aboard -->
         <massCapacity>800</massCapacity>
         <!-- weight in kg -->
+        <max1PerGroup>true</max1PerGroup>
       </li>
-      <li Class="SRTS.CompProperties_LaunchableSRTS">
-        <travelSpeed>75</travelSpeed>
+      <li Class="CompProperties_Launchable">
         <!-- Vanilla drop pod is 25 speed, min 1, max 100 -->
         <fuelPerTile>1</fuelPerTile>
+        <minFuelCost>75</minFuelCost>
+        <skyfallerLeaving>UNSC_Broadsword_Leaving</skyfallerLeaving>
+        <worldObjectDef>TravelingSRTS</worldObjectDef>
+        <cooldownTicks>5000</cooldownTicks>
+        <!-- 2 hours -->
+        <fixedLaunchDistanceMax>175</fixedLaunchDistanceMax>
+        <cooldownEndedMessage>{0} is ready to launch again.</cooldownEndedMessage>
+      </li>
+      <li Class="SRTS.CompProperties_LaunchableSRTS">
+        <shipDef>SRTSMkIII</shipDef>
+        <travelSpeed>75</travelSpeed>
         <!-- Drop pod cost is 2.25 per tile. min 1, max 6. Why'd we cap it at 6? I can't remember. -->
         <minPassengers>1</minPassengers>
         <maxPassengers>1</maxPassengers>
         <spaceFaring>true</spaceFaring>
-        <!-- For save our ship 2 -->
-        <shuttleBayLanding>true</shuttleBayLanding>
       </li>
       <li Class="CompProperties_Refuelable">
         <fuelCapacity>800</fuelCapacity>
+        <fuelConsumptionRate>70.0</fuelConsumptionRate>
         <targetFuelLevelConfigurable>true</targetFuelLevelConfigurable>
         <initialConfigurableTargetFuelLevel>400</initialConfigurableTargetFuelLevel>
         <fuelFilter>
@@ -403,7 +453,6 @@
             <li>Chemfuel</li>
           </thingDefs>
         </fuelFilter>
-        <consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed>
         <initialFuelPercent>0.25</initialFuelPercent>
         <autoRefuelPercent>1</autoRefuelPercent>
         <showFuelGizmo>true</showFuelGizmo>
@@ -471,24 +520,35 @@
     </costList>
     <comps>
       <li Class="CompProperties_Transporter">
+        <canChangeAssignedThingsAfterStarting>true</canChangeAssignedThingsAfterStarting>
         <restEffectiveness>0.5</restEffectiveness>
         <!-- How well (1.0 = 100%) passengers can rest, eat, heal while aboard -->
         <massCapacity>120</massCapacity>
         <!-- weight in kg -->
+        <max1PerGroup>true</max1PerGroup>
       </li>
-      <li Class="SRTS.CompProperties_LaunchableSRTS">
-        <travelSpeed>40</travelSpeed>
+      <li Class="CompProperties_Launchable">
         <!-- Vanilla drop pod is 25 speed, min 1, max 100 -->
         <fuelPerTile>2</fuelPerTile>
+        <minFuelCost>75</minFuelCost>
+        <skyfallerLeaving>UNSC_Wasp_Leaving</skyfallerLeaving>
+        <worldObjectDef>TravelingSRTS</worldObjectDef>
+        <cooldownTicks>5000</cooldownTicks>
+        <!-- 2 hours -->
+        <fixedLaunchDistanceMax>175</fixedLaunchDistanceMax>
+        <cooldownEndedMessage>{0} is ready to launch again.</cooldownEndedMessage>
+      </li>
+      <li Class="SRTS.CompProperties_LaunchableSRTS">
+        <shipDef>SRTSSuperpod</shipDef>
+        <travelSpeed>40</travelSpeed>
         <!-- Drop pod cost is 2.25 per tile. min 1, max 6. Why'd we cap it at 6? I can't remember. -->
         <minPassengers>1</minPassengers>
         <maxPassengers>1</maxPassengers>
         <spaceFaring>false</spaceFaring>
-        <!-- For save our ship 2 -->
-        <shuttleBayLanding>true</shuttleBayLanding>
       </li>
       <li Class="CompProperties_Refuelable">
         <fuelCapacity>400</fuelCapacity>
+        <fuelConsumptionRate>25.0</fuelConsumptionRate>
         <targetFuelLevelConfigurable>true</targetFuelLevelConfigurable>
         <initialConfigurableTargetFuelLevel>200</initialConfigurableTargetFuelLevel>
         <fuelFilter>
@@ -496,7 +556,6 @@
             <li>Chemfuel</li>
           </thingDefs>
         </fuelFilter>
-        <consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed>
         <initialFuelPercent>0.25</initialFuelPercent>
         <autoRefuelPercent>1</autoRefuelPercent>
         <showFuelGizmo>true</showFuelGizmo>
@@ -551,24 +610,35 @@
     </costList>
     <comps>
       <li Class="CompProperties_Transporter">
+        <canChangeAssignedThingsAfterStarting>true</canChangeAssignedThingsAfterStarting>
         <restEffectiveness>0.5</restEffectiveness>
         <!-- How well (1.0 = 100%) passengers can rest, eat, heal while aboard -->
         <massCapacity>120</massCapacity>
         <!-- weight in kg -->
+        <max1PerGroup>true</max1PerGroup>
       </li>
-      <li Class="SRTS.CompProperties_LaunchableSRTS">
-        <travelSpeed>35</travelSpeed>
+      <li Class="CompProperties_Launchable">
         <!-- Vanilla drop pod is 25 speed, min 1, max 100 -->
         <fuelPerTile>3</fuelPerTile>
+        <minFuelCost>75</minFuelCost>
+        <skyfallerLeaving>UNSC_Hornet_Leaving</skyfallerLeaving>
+        <worldObjectDef>TravelingSRTS</worldObjectDef>
+        <cooldownTicks>5000</cooldownTicks>
+        <!-- 2 hours -->
+        <fixedLaunchDistanceMax>175</fixedLaunchDistanceMax>
+        <cooldownEndedMessage>{0} is ready to launch again.</cooldownEndedMessage>
+      </li>
+      <li Class="SRTS.CompProperties_LaunchableSRTS">
+        <shipDef>SRTSSuperpod</shipDef>
+        <travelSpeed>35</travelSpeed>
         <!-- Drop pod cost is 2.25 per tile. min 1, max 6. Why'd we cap it at 6? I can't remember. -->
         <minPassengers>1</minPassengers>
         <maxPassengers>1</maxPassengers>
         <spaceFaring>false</spaceFaring>
-        <!-- For save our ship 2 -->
-        <shuttleBayLanding>true</shuttleBayLanding>
       </li>
       <li Class="CompProperties_Refuelable">
         <fuelCapacity>700</fuelCapacity>
+        <fuelConsumptionRate>70.0</fuelConsumptionRate>
         <targetFuelLevelConfigurable>true</targetFuelLevelConfigurable>
         <initialConfigurableTargetFuelLevel>350</initialConfigurableTargetFuelLevel>
         <fuelFilter>
@@ -576,7 +646,6 @@
             <li>Chemfuel</li>
           </thingDefs>
         </fuelFilter>
-        <consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed>
         <initialFuelPercent>0.25</initialFuelPercent>
         <autoRefuelPercent>1</autoRefuelPercent>
         <showFuelGizmo>true</showFuelGizmo>

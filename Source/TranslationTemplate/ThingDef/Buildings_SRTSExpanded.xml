@@ -4,28 +4,42 @@
   <UNSC.label>UNSC Longsword</UNSC.label>
   <!-- EN: The GA-TL1 Longsword is designed primarily as a fighter, though it can also be used for interception, suppression, bombing, or direct attack. -->
   <UNSC.description>The GA-TL1 Longsword is designed primarily as a fighter, though it can also be used for interception, suppression, bombing, or direct attack.</UNSC.description>
+  <!-- EN: {0} is ready to launch again. -->
+  <UNSC.comps.CompLaunchable.cooldownEndedMessage>{0} is ready to launch again.</UNSC.comps.CompLaunchable.cooldownEndedMessage>
   <!-- EN: UNSC Broadsword -->
   <UNSC_Broadsword.label>UNSC Broadsword</UNSC_Broadsword.label>
   <!-- EN: The Misriah Armory F-41 Broadsword is a family of four-engine, atmospheric/exoatmospheric stealth multirole fighters. The Broadsword entered early design phases in 2527, and in 2529 was a flyable concept aircraft designated the X-40. The fighter was designed to directly counter the agile and highly manueverable Type-31 Seraph. -->
   <UNSC_Broadsword.description>The Misriah Armory F-41 Broadsword is a family of four-engine, atmospheric/exoatmospheric stealth multirole fighters. The Broadsword entered early design phases in 2527, and in 2529 was a flyable concept aircraft designated the X-40. The fighter was designed to directly counter the agile and highly manueverable Type-31 Seraph.</UNSC_Broadsword.description>
+  <!-- EN: {0} is ready to launch again. -->
+  <UNSC_Broadsword.comps.CompLaunchable.cooldownEndedMessage>{0} is ready to launch again.</UNSC_Broadsword.comps.CompLaunchable.cooldownEndedMessage>
   <!-- EN: UNSC Falcon -->
   <UNSC_Falcon.label>UNSC Falcon</UNSC_Falcon.label>
   <!-- EN: The Falcon is a versatile, transverse-rotor multipurpose utility helicopter that entered service in 2497, though it was only truly common with garrison forces on inner colony worlds. Capable of being fitted with a range of armaments, the Falcon proved to be an economical alternative to the larger Pelican for short-range troop deployment by UNSC Army units. -->
   <UNSC_Falcon.description>The Falcon is a versatile, transverse-rotor multipurpose utility helicopter that entered service in 2497, though it was only truly common with garrison forces on inner colony worlds. Capable of being fitted with a range of armaments, the Falcon proved to be an economical alternative to the larger Pelican for short-range troop deployment by UNSC Army units.</UNSC_Falcon.description>
+  <!-- EN: {0} is ready to launch again. -->
+  <UNSC_Falcon.comps.CompLaunchable.cooldownEndedMessage>{0} is ready to launch again.</UNSC_Falcon.comps.CompLaunchable.cooldownEndedMessage>
   <!-- EN: UNSC Hornet -->
   <UNSC_Hornet.label>UNSC Hornet</UNSC_Hornet.label>
   <!-- EN: The AV-14 Attack VTOL, also known as the Hornet, is a United Nations Space Command assault and reconnaissance Aircraft. The Hornet is capable of fulfilling multiple combat roles from close air support to special forces insertion -->
   <UNSC_Hornet.description>The AV-14 Attack VTOL, also known as the Hornet, is a United Nations Space Command assault and reconnaissance Aircraft. The Hornet is capable of fulfilling multiple combat roles from close air support to special forces insertion</UNSC_Hornet.description>
+  <!-- EN: {0} is ready to launch again. -->
+  <UNSC_Hornet.comps.CompLaunchable.cooldownEndedMessage>{0} is ready to launch again.</UNSC_Hornet.comps.CompLaunchable.cooldownEndedMessage>
   <!-- EN: UNSC Pelican -->
   <UNSC_Pelican.label>UNSC Pelican</UNSC_Pelican.label>
   <!-- EN: For over a century, Pelican dropships have been the UNSC’s best and most prominent method of troop and materiel transportation in its various military endeavors. These workhorse craft are equally at home in orbit and atmosphere, and have even been pressed into use for short interplanetary trips. Available in a bewildering number of models and unique variants, Pelicans are likely to remain in service for the foreseeable future. -->
   <UNSC_Pelican.description>For over a century, Pelican dropships have been the UNSC’s best and most prominent method of troop and materiel transportation in its various military endeavors. These workhorse craft are equally at home in orbit and atmosphere, and have even been pressed into use for short interplanetary trips. Available in a bewildering number of models and unique variants, Pelicans are likely to remain in service for the foreseeable future.</UNSC_Pelican.description>
+  <!-- EN: {0} is ready to launch again. -->
+  <UNSC_Pelican.comps.CompLaunchable.cooldownEndedMessage>{0} is ready to launch again.</UNSC_Pelican.comps.CompLaunchable.cooldownEndedMessage>
   <!-- EN: UNSC Sabre -->
   <UNSC_Sabre.label>UNSC Sabre</UNSC_Sabre.label>
   <!-- EN: The YSS-1000 Prototype Anti-Ship Spaceplane, usually referred to as the Sabre, is a space superiority starfighter used by the UNSC Defense Force during the Human-Covenant war. Its first known use was in Operation: UPPERCUT during the Fall of Reach. -->
   <UNSC_Sabre.description>The YSS-1000 Prototype Anti-Ship Spaceplane, usually referred to as the Sabre, is a space superiority starfighter used by the UNSC Defense Force during the Human-Covenant war. Its first known use was in Operation: UPPERCUT during the Fall of Reach.</UNSC_Sabre.description>
+  <!-- EN: {0} is ready to launch again. -->
+  <UNSC_Sabre.comps.CompLaunchable.cooldownEndedMessage>{0} is ready to launch again.</UNSC_Sabre.comps.CompLaunchable.cooldownEndedMessage>
   <!-- EN: UNSC Wasp -->
   <UNSC_Wasp.label>UNSC Wasp</UNSC_Wasp.label>
   <!-- EN: The AV-49 Wasp is light-weight VTOL used by the UNSC. Designed for expeditionary roles, the Wasp can be very quickly manufactured, and very easily shipped. -->
   <UNSC_Wasp.description>The AV-49 Wasp is light-weight VTOL used by the UNSC. Designed for expeditionary roles, the Wasp can be very quickly manufactured, and very easily shipped.</UNSC_Wasp.description>
+  <!-- EN: {0} is ready to launch again. -->
+  <UNSC_Wasp.comps.CompLaunchable.cooldownEndedMessage>{0} is ready to launch again.</UNSC_Wasp.comps.CompLaunchable.cooldownEndedMessage>
 </LanguageData>

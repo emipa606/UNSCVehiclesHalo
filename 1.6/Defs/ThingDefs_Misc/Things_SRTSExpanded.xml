@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
-  <ThingDef Name="BomberSkyfallerBase" ParentName="EtherealThingBase" Abstract="True">
-    <thingClass>BomberSkyfaller</thingClass>
-    <useHitPoints>false</useHitPoints>
-    <drawOffscreen>true</drawOffscreen>
-    <tickerType>Normal</tickerType>
-    <altitudeLayer>Skyfaller</altitudeLayer>
-    <drawerType>RealtimeOnly</drawerType>
-    <skyfaller />
-  </ThingDef>
   <!-- UNSC Pelican -->
-  <ThingDef ParentName="SkyfallerBase">
+  <ThingDef ParentName="ShuttleSkyfallerBase">
     <defName>UNSC_Pelican_Incoming</defName>
     <label>UNSC Pelican incoming</label>
     <thingClass>SRTS.SRTSIncoming</thingClass>
@@ -29,7 +20,7 @@
       <motesPerCell>0</motesPerCell>
     </skyfaller>
   </ThingDef>
-  <ThingDef ParentName="SkyfallerBase">
+  <ThingDef ParentName="ShuttleSkyfallerBase">
     <defName>UNSC_Pelican_Leaving</defName>
     <label>UNSC Pelican leaving</label>
     <thingClass>SRTS.SRTSLeaving</thingClass>
@@ -74,7 +65,7 @@
     <selectable>true</selectable>
   </ThingDef>
   <!-- UNSC FALCON -->
-  <ThingDef ParentName="SkyfallerBase">
+  <ThingDef ParentName="ShuttleSkyfallerBase">
     <defName>UNSC_Falcon_Incoming</defName>
     <label>UNSC Falcon incoming</label>
     <thingClass>SRTS.SRTSIncoming</thingClass>
@@ -93,7 +84,7 @@
       <motesPerCell>0</motesPerCell>
     </skyfaller>
   </ThingDef>
-  <ThingDef ParentName="SkyfallerBase">
+  <ThingDef ParentName="ShuttleSkyfallerBase">
     <defName>UNSC_Falcon_Leaving</defName>
     <label>UNSC Falcon leaving</label>
     <thingClass>SRTS.SRTSLeaving</thingClass>
@@ -138,7 +129,7 @@
     <selectable>true</selectable>
   </ThingDef>
   <!-- UNSC Longsword -->
-  <ThingDef ParentName="SkyfallerBase">
+  <ThingDef ParentName="ShuttleSkyfallerBase">
     <defName>UNSC_Incoming</defName>
     <label>UNSC Longsword incoming</label>
     <thingClass>SRTS.SRTSIncoming</thingClass>
@@ -157,7 +148,7 @@
       <motesPerCell>0</motesPerCell>
     </skyfaller>
   </ThingDef>
-  <ThingDef ParentName="BomberSkyfallerBase">
+  <ThingDef ParentName="BomberShuttleSkyfallerBase">
     <defName>UNSC_BomberRun</defName>
     <label>UNSC Longsword Bombing</label>
     <thingClass>SRTS.SRTSBombing</thingClass>
@@ -177,7 +168,7 @@
       <motesPerCell>0</motesPerCell>
     </skyfaller>
   </ThingDef>
-  <ThingDef ParentName="SkyfallerBase">
+  <ThingDef ParentName="ShuttleSkyfallerBase">
     <defName>UNSC_Leaving</defName>
     <label>UNSC Longsword leaving</label>
     <thingClass>SRTS.SRTSLeaving</thingClass>
@@ -222,7 +213,7 @@
     <selectable>true</selectable>
   </ThingDef>
   <!-- UNSC Sabre -->
-  <ThingDef ParentName="SkyfallerBase">
+  <ThingDef ParentName="ShuttleSkyfallerBase">
     <defName>UNSC_Sabre_Incoming</defName>
     <label>UNSC Sabre incoming</label>
     <thingClass>SRTS.SRTSIncoming</thingClass>
@@ -241,7 +232,7 @@
       <motesPerCell>0</motesPerCell>
     </skyfaller>
   </ThingDef>
-  <ThingDef ParentName="BomberSkyfallerBase">
+  <ThingDef ParentName="BomberShuttleSkyfallerBase">
     <defName>UNSC_Sabre_BomberRun</defName>
     <label>UNSC Sabre Bombing</label>
     <thingClass>SRTS.SRTSBombing</thingClass>
@@ -261,7 +252,7 @@
       <motesPerCell>0</motesPerCell>
     </skyfaller>
   </ThingDef>
-  <ThingDef ParentName="SkyfallerBase">
+  <ThingDef ParentName="ShuttleSkyfallerBase">
     <defName>UNSC_Sabre_Leaving</defName>
     <label>UNSC Sabre leaving</label>
     <thingClass>SRTS.SRTSLeaving</thingClass>
@@ -306,7 +297,7 @@
     <selectable>true</selectable>
   </ThingDef>
   <!-- UNSC Broadsword -->
-  <ThingDef ParentName="SkyfallerBase">
+  <ThingDef ParentName="ShuttleSkyfallerBase">
     <defName>UNSC_Broadsword_Incoming</defName>
     <label>UNSC Broadsword incoming</label>
     <thingClass>SRTS.SRTSIncoming</thingClass>
@@ -325,7 +316,7 @@
       <motesPerCell>0</motesPerCell>
     </skyfaller>
   </ThingDef>
-  <ThingDef ParentName="BomberSkyfallerBase">
+  <ThingDef ParentName="BomberShuttleSkyfallerBase">
     <defName>UNSC_Broadsword_BomberRun</defName>
     <label>UNSC Broadsword Bombing</label>
     <thingClass>SRTS.SRTSBombing</thingClass>
@@ -345,7 +336,7 @@
       <motesPerCell>0</motesPerCell>
     </skyfaller>
   </ThingDef>
-  <ThingDef ParentName="SkyfallerBase">
+  <ThingDef ParentName="ShuttleSkyfallerBase">
     <defName>UNSC_Broadsword_Leaving</defName>
     <label>UNSC Broadsword leaving</label>
     <thingClass>SRTS.SRTSLeaving</thingClass>
@@ -390,7 +381,7 @@
     <selectable>true</selectable>
   </ThingDef>
   <!-- UNSC Wasp -->
-  <ThingDef ParentName="SkyfallerBase">
+  <ThingDef ParentName="ShuttleSkyfallerBase">
     <defName>UNSC_Wasp_Incoming</defName>
     <label>UNSC Wasp incoming</label>
     <thingClass>SRTS.SRTSIncoming</thingClass>
@@ -409,7 +400,7 @@
       <motesPerCell>0</motesPerCell>
     </skyfaller>
   </ThingDef>
-  <ThingDef ParentName="SkyfallerBase">
+  <ThingDef ParentName="ShuttleSkyfallerBase">
     <defName>UNSC_Wasp_Leaving</defName>
     <label>UNSC Wasp leaving</label>
     <thingClass>SRTS.SRTSLeaving</thingClass>
@@ -454,7 +445,7 @@
     <selectable>true</selectable>
   </ThingDef>
   <!-- UNSC Hornet -->
-  <ThingDef ParentName="SkyfallerBase">
+  <ThingDef ParentName="ShuttleSkyfallerBase">
     <defName>UNSC_Hornet_Incoming</defName>
     <label>UNSC Hornet incoming</label>
     <thingClass>SRTS.SRTSIncoming</thingClass>
@@ -473,7 +464,7 @@
       <motesPerCell>0</motesPerCell>
     </skyfaller>
   </ThingDef>
-  <ThingDef ParentName="SkyfallerBase">
+  <ThingDef ParentName="ShuttleSkyfallerBase">
     <defName>UNSC_Hornet_Leaving</defName>
     <label>UNSC Hornet leaving</label>
     <thingClass>SRTS.SRTSLeaving</thingClass>

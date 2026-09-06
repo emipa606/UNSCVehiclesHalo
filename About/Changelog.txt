@@ -1,5 +1,8 @@
 # Changelog for UNSCVehiclesHalo
 
+1.6.1 - Republish to verify steam-version
+
+
 1.6.0 - Mod updated for 1.6 and passed autotests
 
 
